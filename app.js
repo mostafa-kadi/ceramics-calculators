@@ -1,0 +1,1 @@
+document.getElementById('calculate').onclick=()=>{const m=+document.getElementById('mass').value,v=+document.getElementById('volume').value,r=document.getElementById('result');if(!(m>0)||!(v>0)){r.textContent='Enter positive mass and volume.';return;}r.innerHTML='<strong>'+(m/v).toFixed(4)+' g/cm³</strong><span>Bulk density</span>';};
