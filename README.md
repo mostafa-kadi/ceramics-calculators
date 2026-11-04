@@ -1,6 +1,6 @@
 # Ceramics & Density Calculators
 
-Six browser-based tools: theoretical density from Z, molar mass and cell volume; bulk density; relative density; total porosity estimate; Archimedes density; and linear sintering shrinkage.
+Seven browser-based tools: theoretical density from Z, molar mass and cell volume; bulk density; relative density; total porosity estimate; Archimedes density; linear shrinkage; and isotropic volumetric shrinkage estimate.
 
 ## Scientific conventions
 - Theoretical density requires a consistent formula-unit definition and unit-cell volume in Å³.
