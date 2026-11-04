@@ -10,6 +10,7 @@
 | Porosity estimate | ρbulk = 5; ρtheory = 5.5 g cm⁻³ | 9.090909% |
 | Archimedes density | Wdry = 4.8 g; Wsat = 5 g; Wsusp = 3 g; ρliquid = 0.997 g cm⁻³ | 2.392800 g cm⁻³ |
 | Linear shrinkage | L0 = 20 mm; Lf = 18.5 mm | 7.500000% |
+| Volumetric shrinkage (isotropic estimate) | L0 = 20 mm; Lf = 18.5 mm | 20.854688% |
 
 ## Scope and assumptions
 
