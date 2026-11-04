@@ -1,18 +1,10 @@
 # Ceramics & Density Calculators
 
-A browser-based toolkit for ceramic density, porosity, Archimedes measurements and sintering analysis.
+Six browser-based tools: theoretical density from Z, molar mass and cell volume; bulk density; relative density; total porosity estimate; Archimedes density; and linear sintering shrinkage.
 
-## Current release
-**Available now:** bulk density from specimen mass and volume, using ρ = m / V.
+## Scientific conventions
+- Theoretical density requires a consistent formula-unit definition and unit-cell volume in Å³.
+- Archimedes method assumes complete saturation and uses liquid density at measurement temperature.
+- Relative density and porosity depend on a valid pore-free theoretical density.
 
-## Planned calculators
-Theoretical density, relative density, porosity, Archimedes density and sintering shrinkage.
-
-## Run locally
-Open `index.html` in a modern browser. No build step, backend or external JavaScript dependency is required.
-
-## Static hosting
-For Cloudflare Pages, use the repository root as the project root and leave the build command empty.
-
-## Scientific note
-Check units, crystallographic assumptions and experimental inputs before using results in reports or publications.
+Open `index.html` directly or deploy the repository root as a static site. No backend or external dependencies.
